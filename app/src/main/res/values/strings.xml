@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shortcuts Linux Pro</string>
+
+    <string name="note_premium">Your subscription will auto-renew and you will be charged the amount specified above each week,
+        month or year (as applicable) until you cancel your subscription before the end of the then-current subscription period.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
